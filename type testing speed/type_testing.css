@@ -1,0 +1,49 @@
+body{
+	background-image: url("test.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	font-family: Copperplate, Papyrus, fantasy;
+}
+h6{
+	padding-top: 50px;
+	padding-left:450px;
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 30px;
+	margin-top: -2px;
+	font-family: Copperplate, Papyrus, fantasy;
+}
+
+#form{
+	padding-top: 0px;
+	font-size: 30px;
+	padding-left:400px;
+}
+#parah{
+	padding-top: 1px;
+	padding-left: 600px;
+	width:50%;
+	font-size: 20px;
+
+}
+#myInput{
+	height:40px;
+	width:750px;
+	margin-left: 200px;
+}
+#mycounter{
+	font-size: 60px;
+	text-align: center;
+	padding-left: 440px;
+}
+#correct_count{
+	font-size: 40px;
+	padding-left: 770px;
+	display:inline-block;
+}
+#wrong_count{
+	font-size: 40px;
+	padding-left: 770px;
+	display:inline-block;
+}
